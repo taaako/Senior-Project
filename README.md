@@ -46,5 +46,5 @@ Webサイト上に3Dアバターを設置するライブラリを作成する。
 
 ## author
 Takako Sato  
-[Twitter](https://twitter.com/taaakopanman)  
+Twitter : [@taaakopanman](https://twitter.com/taaakopanman)  
 Gmail : takako.sato12@gmail.com
